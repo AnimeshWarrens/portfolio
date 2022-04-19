@@ -1,0 +1,54 @@
+body{
+	background-image: url(assets/background.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+header{
+
+}
+
+main{
+
+}
+
+footer{
+
+}
+
+#main{
+	font-family: monospace;
+	text-align: center;
+	font-size: 270%;
+	font-weight: bold;
+}
+
+#sub{
+	color: purple;
+	padding: 8px;
+	background-color: white;
+	opacity: 0.4;
+	border-radius: 10px;
+}
+
+.sub2{
+  overflow: hidden;
+  margin: auto;
+  font-family: monospace;
+}
+.sub2 ul{
+	text-align: center;
+}
+
+.sub2 a{
+  float: left;
+  font-size: 20px;
+  color: white;
+  padding: 15px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.sub2 a:hover{
+  background-color: #BF40BF;
+}
