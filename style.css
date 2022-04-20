@@ -55,6 +55,7 @@ nav ul li{
 nav ul li a{
 	text-align: center;
 	border-radius: 7px;
+	font-size: 17px;
 	background-color: floralwhite;
 	opacity: 0.4;
 	color: black;
